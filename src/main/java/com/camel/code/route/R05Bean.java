@@ -10,7 +10,6 @@ import org.springframework.stereotype.Component;
 
 import com.camel.code.bean.GerarObjetoBean;
 import com.camel.code.domain.Funcionario;
-import com.fasterxml.jackson.databind.AnnotationIntrospector.ReferenceProperty.Type;
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
 
